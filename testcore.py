@@ -4,7 +4,7 @@ import geopandas as gpd
 import networkx as nx
 from shapely.geometry import Point, box
 
-import food_access_pipeline as fap
+import access_pipeline as fap
 
 CRS = fap.METRIC_CRS
 
