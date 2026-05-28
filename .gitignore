@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# GIS data & outputs
+output/
+*.geojson
+*.shp
+*.gpkg
+data/
+.DS_Store
